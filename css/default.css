@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+}
+
+.title {
+    background: white;
+    color: orangered;
+    
+}
+.black-box {
+    background-color: orangered; 
+    width:50%; 
+    margin: auto; 
+    padding: 10px
+}
+
+.clickable {
+    cursor:pointer;
+    }
