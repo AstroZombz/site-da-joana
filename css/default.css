@@ -1,10 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+
 .title {
     background: white;
     color: black;
-    
+    font-family: 'Major Mono Display', monospace;
+    text-align: center;
 }
+
 .black-box {
-    background-color: orangered; 
+    background-color: black; 
     width:50%; 
     margin: auto; 
     padding: 10px
